@@ -4,7 +4,7 @@ This is a little thing I made to display the DHCP leases in my network using a t
 At the moment it only works with the ISC DHCPD leases format.
 
 It uses the SimpleJson Datasource which you can find here:
-https://grafana.net/plugins/grafana-simple-json-datasource
+https://grafana.net/grafana/plugins/grafana-simple-json-datasource
 
 
 <b>Usage</b>
